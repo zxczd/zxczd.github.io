@@ -41,9 +41,7 @@ body {
     margin-bottom: 2rem; }
     .container .side .me .portrait {
       margin: 0 auto;
-      margin-bottom: 1rem;
-      width: 8rem;
-      height: 8rem;
+     
       overflow: hidden;
       position: relative; }
       .container .side .me .portrait .loading {
@@ -86,10 +84,7 @@ body {
         -webkit-animation-delay: 0.6s; }
       .container .side .me .portrait .loading span:nth-child(5) {
         -webkit-animation-delay: 0.8s; }
-      .container .side .me .portrait img {
-        width: 8rem;
-        height: 8rem;
-      }
+    
   .container .side .info-unit ul li label {
     display: inline-block;
     width: 35%; }
