@@ -41,7 +41,6 @@ body {
     margin-bottom: 2rem; }
     .container .side .me .portrait {
       margin: 0 auto;
-     
       overflow: hidden;
       position: relative; }
       .container .side .me .portrait .loading {
