@@ -4,7 +4,10 @@
  * ------------------------------------------------- */
 body {
   background: #e5e5e5 url(../../assets/images/background.png);
+ height:1225px;
+
   width: 100%;
+
   overflow-x: hidden;
   padding: 1rem 10%;
   padding-bottom: 0;
